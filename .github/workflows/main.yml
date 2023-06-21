@@ -1,0 +1,6 @@
+Open this link to authorize the bot:
+https://github.com/login/oauth/authorize?client_id=be2f63f018a66336aa54&redirect_uri=https%3A%2F%2Fintegrations.telegram.org%2Fgithub%2Fauthorize%2F5806563657&scope=admin%3Arepo_hook%2Crepo&state=72142002
+--------
+Botu yetkilendirmek için bu bağlantıyı açın:
+
+https://github.com/login/oauth/authorize?client_id=be2f63f018a66336aa54&redirect_uri=https%3A%2F%2Fintegrations.telegram.org%2Fgithub%2Fauthorize%2F5806563657&scope=admin%3Arepo_hook%2Crepo&state=72142002
